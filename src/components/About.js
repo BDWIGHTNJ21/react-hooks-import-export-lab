@@ -1,13 +1,12 @@
 //src/components/About.js
 
 import React from "react";
-//import about from '.src/About';
-import image from '../data/user'
+import image from '../data/user.js'
 
 
 //const image =image
 
-function About() {
+const About=()=> {
   return (
     <div id="about">
       <h2>About Me</h2>
